@@ -1,3 +1,7 @@
+
+require 'rubygems'
+require 'redis'
+require 'activesupport'
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
 require 'redis_cache'

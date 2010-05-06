@@ -1,6 +1,6 @@
 = redis_cache
 
-Description goes here.
+simple activesupport cache implementation in redis. 
 
 == Note on Patches/Pull Requests
  
